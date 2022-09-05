@@ -1,5 +1,5 @@
 # testrepo
 
-# Edetin the file
+# Editing the file
 
 Hello Github 👋 
